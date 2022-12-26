@@ -5,9 +5,10 @@ It's the first release, so expect bugs here and there still
 
 I hope you like it, and thanks for playing!!
 
-Controls:
 
-Move with the arrow keys, gamepad dpad, or gamepad analog stick.
+-Controls-
+
+Move - arrow keys, gamepad dpad, or gamepad analog stick
 Crouch - down
 Drop from platform - down + jump
 
